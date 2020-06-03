@@ -1,2 +1,3 @@
-const a = 50;
-const b = () => {};
+const c = () => {};
+const b = 'hello how are you';
+
